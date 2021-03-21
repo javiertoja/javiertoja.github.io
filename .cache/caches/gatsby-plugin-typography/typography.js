@@ -1,0 +1,1 @@
+module.exports = require("/home/toja/Desktop/javiertoja.github.io/src/utils/typography")
